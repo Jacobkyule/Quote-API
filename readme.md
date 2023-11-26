@@ -17,10 +17,13 @@ To get started with the Quote API, follow these steps:
    ```bash
    git clone https://github.com/Jacobkyule/Quote-API.git
 2. Navigate to the cloned repository using your terminal:
+    ```bash
     cd Quote-API
 3. Install dependencies:
+    ```bash
     npm install
 4. Start the server:
+    ```bash
     node server.js
 5. Access the front-end from http://localhost:4001
 
